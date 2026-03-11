@@ -1,0 +1,754 @@
+{
+  "main_story": {
+    "title": "Kisah Cahaya di Ujung Kota",
+    "author": "Penulis Misterius",
+    "description": "Sebuah perjalanan mencari makna di tengah hiruk pikuk kota metropolitan yang tak pernah tidur.",
+    "cover": "assets/img/p2.jpg",
+    "chapters": [
+      {
+        "title": "Bab 1: Awal Mula",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at porttitor sem. Sed quis cursus est. Maecenas tristique est justo, vel scelerisque dui hendrerit eu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla facilisi. Aenean fermentum felis at tellus vestibulum porttitor."
+      },
+      {
+        "title": "Bab 2: Pertemuan Tak Terduga",
+        "content": "Praesent quis est sit amet nisl elementum sollicitudin. Suspendisse potenti. Nam non felis quam. Cras in ligula in magna tempor condimentum. Donec efficitur, ligula vitae dignissim ullamcorper, lectus ex varius felis, id dictum elit felis nec nisl. Phasellus vel lacus dui."
+      },
+      {
+        "title": "Bab 3: Rahasia Terungkap",
+        "content": "Vivamus consequat magna sed nunc vestibulum, eu aliquam elit vulputate. Quisque pharetra est ex, sit amet tincidunt odio luctus eu. Nunc condimentum nunc non nisi rhoncus, sed pretium eros congue. Morbi vel velit sed dolor lacinia facilisis at eget dolor. In hac habitasse platea dictumst."
+      }
+    ]
+  },
+  "profiles": [
+    {
+      "id": 1,
+      "title": "Gema Senja",
+      "genre": "Drama, Slice of Life",
+      "views": 1500,
+      "chapters": 12,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Gema Senja Bab 1. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Gema Senja Bab 2. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Gema Senja Bab 3. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Gema Senja Bab 4. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Gema Senja Bab 5. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Gema Senja Bab 6. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 7: Bagian 7",
+          "content": "Ini adalah isi dari Gema Senja Bab 7. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 8: Bagian 8",
+          "content": "Ini adalah isi dari Gema Senja Bab 8. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 9: Bagian 9",
+          "content": "Ini adalah isi dari Gema Senja Bab 9. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 10: Bagian 10",
+          "content": "Ini adalah isi dari Gema Senja Bab 10. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 11: Bagian 11",
+          "content": "Ini adalah isi dari Gema Senja Bab 11. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 12: Bagian 12",
+          "content": "Ini adalah isi dari Gema Senja Bab 12. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Drama, Slice of Life ini yang penuh dengan kejutan."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Sang Penakluk Waktu",
+      "genre": "Fantasy, Action",
+      "views": 3200,
+      "chapters": 15,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 1. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 2. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 3. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 4. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 5. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 6. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 7: Bagian 7",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 7. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 8: Bagian 8",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 8. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 9: Bagian 9",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 9. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 10: Bagian 10",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 10. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 11: Bagian 11",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 11. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 12: Bagian 12",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 12. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 13: Bagian 13",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 13. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 14: Bagian 14",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 14. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 15: Bagian 15",
+          "content": "Ini adalah isi dari Sang Penakluk Waktu Bab 15. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Action ini yang penuh dengan kejutan."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Melodi Hujan",
+      "genre": "Romance, Drama",
+      "views": 2100,
+      "chapters": 8,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Melodi Hujan Bab 1. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Drama ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Melodi Hujan Bab 2. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Drama ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Melodi Hujan Bab 3. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Drama ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Melodi Hujan Bab 4. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Drama ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Melodi Hujan Bab 5. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Drama ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Melodi Hujan Bab 6. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Drama ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 7: Bagian 7",
+          "content": "Ini adalah isi dari Melodi Hujan Bab 7. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Drama ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 8: Bagian 8",
+          "content": "Ini adalah isi dari Melodi Hujan Bab 8. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Drama ini yang penuh dengan kejutan."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Jejak Bintang",
+      "genre": "Sci-Fi, Adventure",
+      "views": 850,
+      "chapters": 5,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Jejak Bintang Bab 1. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Adventure ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Jejak Bintang Bab 2. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Adventure ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Jejak Bintang Bab 3. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Adventure ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Jejak Bintang Bab 4. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Adventure ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Jejak Bintang Bab 5. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Adventure ini yang penuh dengan kejutan."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Misteri Kastil Tua",
+      "genre": "Horror, Mystery",
+      "views": 4300,
+      "chapters": 20,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 1. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 2. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 3. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 4. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 5. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 6. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 7: Bagian 7",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 7. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 8: Bagian 8",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 8. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 9: Bagian 9",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 9. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 10: Bagian 10",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 10. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 11: Bagian 11",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 11. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 12: Bagian 12",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 12. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 13: Bagian 13",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 13. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 14: Bagian 14",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 14. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 15: Bagian 15",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 15. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 16: Bagian 16",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 16. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 17: Bagian 17",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 17. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 18: Bagian 18",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 18. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 19: Bagian 19",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 19. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 20: Bagian 20",
+          "content": "Ini adalah isi dari Misteri Kastil Tua Bab 20. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Horror, Mystery ini yang penuh dengan kejutan."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Pendekar Bayangan",
+      "genre": "Action, Martial Arts",
+      "views": 5600,
+      "chapters": 25,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 1. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 2. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 3. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 4. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 5. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 6. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 7: Bagian 7",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 7. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 8: Bagian 8",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 8. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 9: Bagian 9",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 9. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 10: Bagian 10",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 10. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 11: Bagian 11",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 11. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 12: Bagian 12",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 12. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 13: Bagian 13",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 13. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 14: Bagian 14",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 14. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 15: Bagian 15",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 15. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 16: Bagian 16",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 16. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 17: Bagian 17",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 17. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 18: Bagian 18",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 18. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 19: Bagian 19",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 19. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 20: Bagian 20",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 20. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 21: Bagian 21",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 21. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 22: Bagian 22",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 22. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 23: Bagian 23",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 23. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 24: Bagian 24",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 24. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 25: Bagian 25",
+          "content": "Ini adalah isi dari Pendekar Bayangan Bab 25. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Action, Martial Arts ini yang penuh dengan kejutan."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Aroma Kopi Hitam",
+      "genre": "Slice of Life",
+      "views": 1200,
+      "chapters": 6,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Aroma Kopi Hitam Bab 1. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Aroma Kopi Hitam Bab 2. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Aroma Kopi Hitam Bab 3. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Aroma Kopi Hitam Bab 4. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Aroma Kopi Hitam Bab 5. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Aroma Kopi Hitam Bab 6. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Slice of Life ini yang penuh dengan kejutan."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Mimpi Sang Ratu",
+      "genre": "Fantasy, Romance",
+      "views": 2900,
+      "chapters": 14,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 1. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 2. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 3. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 4. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 5. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 6. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 7: Bagian 7",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 7. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 8: Bagian 8",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 8. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 9: Bagian 9",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 9. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 10: Bagian 10",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 10. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 11: Bagian 11",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 11. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 12: Bagian 12",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 12. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 13: Bagian 13",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 13. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 14: Bagian 14",
+          "content": "Ini adalah isi dari Mimpi Sang Ratu Bab 14. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Fantasy, Romance ini yang penuh dengan kejutan."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Lorong Dimensi",
+      "genre": "Sci-Fi, Thriller",
+      "views": 1800,
+      "chapters": 9,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Lorong Dimensi Bab 1. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Thriller ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Lorong Dimensi Bab 2. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Thriller ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Lorong Dimensi Bab 3. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Thriller ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Lorong Dimensi Bab 4. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Thriller ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Lorong Dimensi Bab 5. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Thriller ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Lorong Dimensi Bab 6. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Thriller ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 7: Bagian 7",
+          "content": "Ini adalah isi dari Lorong Dimensi Bab 7. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Thriller ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 8: Bagian 8",
+          "content": "Ini adalah isi dari Lorong Dimensi Bab 8. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Thriller ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 9: Bagian 9",
+          "content": "Ini adalah isi dari Lorong Dimensi Bab 9. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Sci-Fi, Thriller ini yang penuh dengan kejutan."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Gelak Tawa Sahabat",
+      "genre": "Comedy, Slice of Life",
+      "views": 3100,
+      "chapters": 11,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 1. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 2. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 3. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 4. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 5. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 6. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 7: Bagian 7",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 7. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 8: Bagian 8",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 8. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 9: Bagian 9",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 9. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 10: Bagian 10",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 10. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        },
+        {
+          "title": "Bab 11: Bagian 11",
+          "content": "Ini adalah isi dari Gelak Tawa Sahabat Bab 11. Konten ini sengaja dibuat sebagai dummy agar halaman tidak kosong. Selamat membaca kisah Comedy, Slice of Life ini yang penuh dengan kejutan."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Bayang-Bayang Rembulan",
+      "genre": "Mystery, Thriller",
+      "views": 4100,
+      "chapters": 8,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Bayang-Bayang Rembulan Bab 1. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Mystery, Thriller."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Bayang-Bayang Rembulan Bab 2. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Mystery, Thriller."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Bayang-Bayang Rembulan Bab 3. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Mystery, Thriller."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Bayang-Bayang Rembulan Bab 4. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Mystery, Thriller."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Bayang-Bayang Rembulan Bab 5. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Mystery, Thriller."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Bayang-Bayang Rembulan Bab 6. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Mystery, Thriller."
+        },
+        {
+          "title": "Bab 7: Bagian 7",
+          "content": "Ini adalah isi dari Bayang-Bayang Rembulan Bab 7. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Mystery, Thriller."
+        },
+        {
+          "title": "Bab 8: Bagian 8",
+          "content": "Ini adalah isi dari Bayang-Bayang Rembulan Bab 8. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Mystery, Thriller."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Senandung Hati",
+      "genre": "Romance, Slice of Life",
+      "views": 2500,
+      "chapters": 12,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Senandung Hati Bab 1. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Senandung Hati Bab 2. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Senandung Hati Bab 3. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Senandung Hati Bab 4. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Senandung Hati Bab 5. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 6: Bagian 6",
+          "content": "Ini adalah isi dari Senandung Hati Bab 6. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 7: Bagian 7",
+          "content": "Ini adalah isi dari Senandung Hati Bab 7. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 8: Bagian 8",
+          "content": "Ini adalah isi dari Senandung Hati Bab 8. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 9: Bagian 9",
+          "content": "Ini adalah isi dari Senandung Hati Bab 9. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 10: Bagian 10",
+          "content": "Ini adalah isi dari Senandung Hati Bab 10. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 11: Bagian 11",
+          "content": "Ini adalah isi dari Senandung Hati Bab 11. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        },
+        {
+          "title": "Bab 12: Bagian 12",
+          "content": "Ini adalah isi dari Senandung Hati Bab 12. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Romance, Slice of Life."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Ekspedisi Ujung Dunia",
+      "genre": "Adventure, Sci-Fi",
+      "views": 1900,
+      "chapters": 5,
+      "cover": "assets/img/p2.jpg",
+      "chapters_data": [
+        {
+          "title": "Bab 1: Bagian 1",
+          "content": "Ini adalah isi dari Ekspedisi Ujung Dunia Bab 1. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Adventure, Sci-Fi."
+        },
+        {
+          "title": "Bab 2: Bagian 2",
+          "content": "Ini adalah isi dari Ekspedisi Ujung Dunia Bab 2. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Adventure, Sci-Fi."
+        },
+        {
+          "title": "Bab 3: Bagian 3",
+          "content": "Ini adalah isi dari Ekspedisi Ujung Dunia Bab 3. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Adventure, Sci-Fi."
+        },
+        {
+          "title": "Bab 4: Bagian 4",
+          "content": "Ini adalah isi dari Ekspedisi Ujung Dunia Bab 4. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Adventure, Sci-Fi."
+        },
+        {
+          "title": "Bab 5: Bagian 5",
+          "content": "Ini adalah isi dari Ekspedisi Ujung Dunia Bab 5. Konten dummy agar halaman tidak kosong. Selamat membaca kisah Adventure, Sci-Fi."
+        }
+      ]
+    }
+  ]
+}
