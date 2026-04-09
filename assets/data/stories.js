@@ -1,9 +1,9 @@
 const storiesData = {
   "main_story": {
-    "title": "Kisah Cahaya di Ujung Kota",
+    "title": "Tsuki to Yami",
     "author": "Penulis Misterius",
     "description": "Sebuah perjalanan mencari makna di tengah hiruk pikuk kota metropolitan yang tak pernah tidur.",
-    "cover": "assets/img/p2.jpg",
+    "cover": "assets/img/tsukitoyami.png",
     "chapters": [
       {
         "title": "Bab 1: Awal Mula",
